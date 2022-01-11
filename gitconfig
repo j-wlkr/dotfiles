@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = josh.wm.walker@gmail.com
+	name = Joshua Walker
